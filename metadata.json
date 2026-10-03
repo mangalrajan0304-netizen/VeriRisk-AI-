@@ -1,0 +1,6 @@
+{
+  "name": "VeriRisk AI - Document Risk & Compliance Governance",
+  "description": "Enterprise AI classifier for business documents, compliance policy validation, risk explainability, and automated review workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
